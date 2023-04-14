@@ -18,8 +18,8 @@ This Application covers :
 </div>
 
 <div align = center>
-/home/purpleven/Downloads/Untitled.jpeg
+
+![Untitled](https://user-images.githubusercontent.com/86104620/232112428-283200ef-3163-41a3-8983-9d92dc0523c5.jpeg)
+
 </div>
-
-
 
